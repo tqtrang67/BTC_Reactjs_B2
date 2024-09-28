@@ -1,0 +1,26 @@
+.title {
+	color: red;
+	padding: 20px;
+}
+
+.list {
+	width: 260px;
+}
+.image {
+	width: 100px;
+}
+
+.glass {
+	position: absolute;
+	top: 196px;
+	left: 420px;
+	width: 210px;
+	opacity: 0.8;
+}
+.des {
+	width: 200px;
+	position: absolute;
+	top: 420px;
+	left: 420px;
+	color: blue;
+}
